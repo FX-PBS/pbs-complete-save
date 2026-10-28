@@ -29,3 +29,4 @@ This is a naturally raised save file for Senran Kagura: Peach Beach Splash (PBS)
 
 - DLCs and limited content will not be raised
 - Mouse and keyboard scheme is non-default
+- Ranked points are kept at 0 peach points
