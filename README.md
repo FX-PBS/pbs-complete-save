@@ -13,7 +13,7 @@ This is a naturally raised save file for Senran Kagura: Peach Beach Splash (PBS)
 
 - [x] Blank save
 - [x] Tutorial complete
-- [ ] All characters unlocked
+- [x] All characters unlocked
 - [x] Main story complete
 - [x] Side story complete
 - [ ] V-Road Challenge complete
