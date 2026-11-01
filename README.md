@@ -20,8 +20,9 @@ This is a naturally raised save file for Senran Kagura: Peach Beach Splash (PBS)
 - [x] Co-Op complete
 - [ ] All shop items unlocked and purchased
 - [ ] 100% card completion
+- [x] 100% costumes obtained
 - [ ] All non-DLC characters raised to level 10
-- [ ] All non-DLC weapons raised to level 10
+- [x] All non-DLC weapons raised to level 10
 - [ ] All non-DLC cards raised to level 10
 - [ ] Sufficient reserve of zeni and card duplicates
 
