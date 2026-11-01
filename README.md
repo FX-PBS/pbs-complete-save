@@ -19,7 +19,8 @@ This is a naturally raised save file for Senran Kagura: Peach Beach Splash (PBS)
 - [x] V-Road Challenge complete
 - [x] Co-Op complete
 - [ ] All shop items unlocked and purchased
-- [ ] 100% card completion
+- [ ] 100% skill cards collected
+- [ ] 100% pet cards collected
 - [x] 100% costumes obtained
 - [ ] All non-DLC characters raised to level 10
 - [x] All non-DLC weapons raised to level 10
